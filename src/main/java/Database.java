@@ -17,7 +17,7 @@ import java.util.logging.Logger;
  */
 /**
  *
- * @author user
+ * @author gestyan ramadhan
  */
 public class Database{
 
